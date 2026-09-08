@@ -16,7 +16,6 @@
 - Tested different number literals
 - Tested arithmetic operations
 - Tested overflow
-- Tested signed and unsigned comparisons
 
 ## Day 2 Outcome
 Understood how **data types, vector widths, literals, signedness, arithmetic and overflow** work in SystemVerilog.
