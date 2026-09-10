@@ -15,8 +15,7 @@ module task2_memory;
 
         $display("MEMORY CONTENTS");
         for (int i = 0; i < 8; i++) begin
-            $display("Address %0d : Data = %h",
-                     i, memory[i]);
+            $display("Address %0d : Data = %h", i, memory[i]);
         end
 
         $display("\nPARTICULAR LOCATIONS");
